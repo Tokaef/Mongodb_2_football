@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "63f488278373dbad68c57dea"
+  },
+  "name": "Kai Havertz",
+  "position": "Forward",
+  "team": "Chelsea"
+},{
+  "_id": {
+    "$oid": "63f488788373dbad68c57deb"
+  },
+  "name": "Lionel Messi",
+  "position": "Forward",
+  "team": "Paris Saint Germain"
+},{
+  "_id": {
+    "$oid": "63f489458373dbad68c57dec"
+  },
+  "name": "Igor Akinfeev",
+  "position": "Goalkeeper",
+  "team": "CSKA"
+}]

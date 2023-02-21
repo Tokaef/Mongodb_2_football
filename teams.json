@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "63f486658373dbad68c57de7"
+  },
+  "name": "Chelsea",
+  "country": "England",
+  "founded": 1905
+},{
+  "_id": {
+    "$oid": "63f486e48373dbad68c57de8"
+  },
+  "name": "Paris Saint Germain",
+  "country": "France",
+  "founded": 1970
+},{
+  "_id": {
+    "$oid": "63f487408373dbad68c57de9"
+  },
+  "name": "CSKA",
+  "country": "Russia",
+  "founded": 1911
+}]
